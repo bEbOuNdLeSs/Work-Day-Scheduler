@@ -24,3 +24,8 @@ This is a Work Day Scheduler that uses Third Party APIs to be completely functio
 ## Websites
 * Github: https://github.com/bEbOuNdLeSs
 * Deployed: https://beboundless.github.io/Work-Day-Scheduler/ 
+
+## Images
+* Top of the application
+
+![Header](/Demo/Top.PNG).
