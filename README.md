@@ -29,3 +29,6 @@ This is a Work Day Scheduler that uses Third Party APIs to be completely functio
 * Top of the application
 
 ![Header](/Demo/Top.PNG).
+
+* Current time poriton of the app showing past, current, and future plans
+![Live](/Demo/bottom.PNG).
